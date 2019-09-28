@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chess-js/static/css/main.ebb09a56.chunk.css",
+    "main.js": "/chess-js/static/js/main.cadb3733.chunk.js",
+    "main.js.map": "/chess-js/static/js/main.cadb3733.chunk.js.map",
+    "runtime~main.js": "/chess-js/static/js/runtime~main.23995880.js",
+    "runtime~main.js.map": "/chess-js/static/js/runtime~main.23995880.js.map",
+    "static/js/2.bc08f2b2.chunk.js": "/chess-js/static/js/2.bc08f2b2.chunk.js",
+    "static/js/2.bc08f2b2.chunk.js.map": "/chess-js/static/js/2.bc08f2b2.chunk.js.map",
+    "index.html": "/chess-js/index.html",
+    "precache-manifest.4bd1b9655c6c8d9670e1f69c361f83d2.js": "/chess-js/precache-manifest.4bd1b9655c6c8d9670e1f69c361f83d2.js",
+    "service-worker.js": "/chess-js/service-worker.js",
+    "static/css/main.ebb09a56.chunk.css.map": "/chess-js/static/css/main.ebb09a56.chunk.css.map"
+  }
+}
